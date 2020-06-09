@@ -1,15 +1,16 @@
-import pyttsx3
-import datetime
-import speech_recognition as sr
-import wikipedia
-import pyaudio
+import pyttsx3 #pip install pyttsx3
+import datetime 
+import speech_recognition as sr #pip install SpeechRecognition
+import wikipedia #pip install wikipedia
+import pyaudio #pip install PyAudio
 import webbrowser
 import os
 import smtplib
-from selenium import webdriver
 import random
 
-engine = pyttsx3.init('sapi5')
+
+engine = pyttsx3.init('sapi5') # SAPI - Speech Application Programming Interface, dev by Microsoft. 
+                               # For using speech recognition and synthesis within windows applications.
 # We set the voice( male/female) here
 voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[0].id)
