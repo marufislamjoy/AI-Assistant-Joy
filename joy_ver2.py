@@ -1,3 +1,15 @@
+# Find comment called- UPDATE from ver 2.0, below. Rest of 
+# the code above that is similar to ver 1.0
+# Features added to the second version:
+# 1. 1 line search result even without opening any search browser by Wolframalpha API.
+# 2. Weather Updates
+# 3. Any calculation can be performed by our assistant. Using Wolframalpha API
+# 3. Jokes telling
+# 4. Shutdown, restart, logout features
+# 5. CPU & Battery info using psutil module
+# 6. Screenshot feature
+# Thats it. Stay tuned for joy_ver3 for more cool features.
+
 import pyttsx3
 import datetime
 import speech_recognition as sr
