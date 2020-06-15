@@ -3,8 +3,9 @@
     <h3> What inside?</h3>
     <p> "Joy" is an ai assistant created by python. It can receive your voice command and perform the task according to your command.</p>
     <h3> Current version</h3>
-    <p> Current version is 1.0.</p>
-    <h3> Tasks it can do:</h3>
+    <p> Current version is 2.0</p>
+    <p> Previous version 1.0</p>
+    <h3> Features from ver 1.0</h3>
     <ul> It can greet you according to day part. Ex: good morning</ul>
     <ul> Can tell you what the time and date is</ul>
     <ul> Search wikipedia without even opening wiki</ul>
@@ -14,9 +15,15 @@
     <ul> Send email. You just have to tell the message andd email receiver address. Thats enough</ul>
     <ul> Play random music whenever you wants</ul>
     <b> If anything new I add, will find it the section below named <h4>new eddition</h4></b>
-    <h3> New Edition</h3>
-    <p>..........</p>
-    <h2> Module I used</h2>
+    <h3> New features added to ver 2.0 </h3>
+    <ul> 1 line search result even without opening any search browser by Wolframalpha API.</ul>
+    <ul> Weather Updates</ul>
+    <ul> Any calculation can be performed by our assistant. Using Wolframalpha API</ul>
+    <ul> Jokes telling</ul>
+    <ul> Shutdown, restart, logout features</ul>
+    <ul> CPU & Battery info using psutil module</ul>
+    <ul> Screenshot feature</ul>
+    <h2> Module I used in ver 1.0</h2>
     <ul> pyttsx3</ul>
     <ul> spechRecognition</ul>
     <ul> wikipedia</ul>
@@ -26,6 +33,11 @@
     <ul> os</ul>
     <ul> random</ul>
     <ul> datetime</ul>
+    <h3> Module added to ver 2.0</h3>
+    <ul> psutil</ul>
+    <ul> woframalpha</ul>
+    <ul> pyautogui</ul>
+    <ul> pyjokes</ul>
     <b> if added new then will add here</b>
     <h3> Some command you can try?</h3>
     <ul> What is the time now/ mention time in any sentence</ul>
