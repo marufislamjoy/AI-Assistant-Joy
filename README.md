@@ -14,7 +14,6 @@
     <ul> Open/close any software from your system</ul>
     <ul> Send email. You just have to tell the message andd email receiver address. Thats enough</ul>
     <ul> Play random music whenever you wants</ul>
-    <b> If anything new I add, will find it the section below named <h4>new eddition</h4></b>
     <h3> New features added to ver 2.0 </h3>
     <ul> 1 line search result even without opening any search browser by Wolframalpha API.</ul>
     <ul> Weather Updates</ul>
