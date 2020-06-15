@@ -49,4 +49,4 @@
     <ul> say 'goodbye'/'stop'/'sleep'/'quit' to stop the program</ul>
     <h3> If you wantto see the demo video</h3>
     <h4><ul><a href="https://www.youtube.com/watch?v=dq0IYZ9zjmA&feature=youtu.be">Version 1.0 Video</a></ul>
-    <ul><a href="https://www.youtube.com/watch?v=LkEOdZKyAXk&feature=youtu.be">Version 2.0 Video</a></ul></>h4
+    <ul><a href="https://www.youtube.com/watch?v=LkEOdZKyAXk&feature=youtu.be">Version 2.0 Video</a></ul></h4>
