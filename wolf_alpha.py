@@ -2,7 +2,7 @@ import joy
 import wolframalpha
 def math_solver(ask):
     qsn = ask
-    appid = "HT44W6-36W9HQUE6X" # optional :8REQUG-YQ7JGY96T8
+    appid = "your app-id" 
     # we have to create an instances of w-alpha client class
     client = wolframalpha.Client(appid)
     output = client.query(qsn)
@@ -14,8 +14,7 @@ def math_solver(ask):
 
 def search(qsn):
     question = qsn
-    app_id = "HT44W6-36W9HQUE6X" # optional :8REQUG-YQ7JGY96T8
-    client = wolframalpha.Client(app_id)
+    app_id =  "your app-id"
     output = client.query(question)
     final_output = next(output.results).text
     print("Result:", final_output)
@@ -25,7 +24,7 @@ def search(qsn):
 
 def weather(qsn):
     w_query = qsn
-    app_id = "HT44W6-36W9HQUE6X"
+    app_id =  "your app-id"
     client = wolframalpha.Client(app_id)
     res = client.query(w_query)
     final_res = next(res.results).text
