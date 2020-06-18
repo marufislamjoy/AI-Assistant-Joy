@@ -90,8 +90,8 @@ def send_email(to,content):
     server_setup = smtplib.SMTP("smtp.gmail.com", 587)
     server_setup.ehlo()
     server_setup.starttls()
-    server_setup.login('pywithjoy@gmail.com','Joyjoy570*')
-    server_setup.sendmail('pywithjoy@gmail.com', to, content)
+    server_setup.login('your mail','pass')
+    server_setup.sendmail('your mail', to, content)
     server_setup.close()
 
 # After take command, the most important and main method of our entire code
