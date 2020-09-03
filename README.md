@@ -47,5 +47,4 @@
     <ul> close 'website'/'app name'</ul>
     <ul> Play music/ gaana sunao / Whatever include 'music' ,</ul>
     <ul> say 'goodbye'/'stop'/'sleep'/'quit' to stop the program</ul>
-    <h3> If you want to see the demo video</h3>
  
