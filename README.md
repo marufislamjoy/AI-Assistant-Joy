@@ -3,8 +3,8 @@
     <h3> What inside?</h3>
     <p> "Joy" is an ai assistant created by python. It can receive your voice command and perform the task according to your command.</p>
     <h3> Current version</h3>
-    <p> Current version is 2.0</p>
-    <p> Previous version 1.0</p>
+    <p> Current version is 2.0 [Video demonstration: <a href = "https://www.youtube.com/watch?v=LkEOdZKyAXk">Click Here</a>]</p>
+    <p> Previous version 1.0 [Video demonstration: <a href = "https://www.youtube.com/watch?v=dq0IYZ9zjmA">Click Here</a>]</p>
     <h3> Features from ver 1.0</h3>
     <ul> It can greet you according to day part. Ex: good morning</ul>
     <ul> Can tell you what the time and date is</ul>
